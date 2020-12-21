@@ -1,0 +1,259 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dis",
+				"displayIndex"
+			],
+			[
+				"SDL_RE",
+				"SDL_RENDERER_ACCELERATED"
+			],
+			[
+				"enti",
+				"entities2"
+			],
+			[
+				"ent",
+				"entities2"
+			],
+			[
+				"entiti",
+				"entities2"
+			],
+			[
+				"for",
+				"forv\tVector For Loop"
+			],
+			[
+				"entit",
+				"entities"
+			],
+			[
+				"get",
+				"getCurrentFrame"
+			],
+			[
+				"p",
+				"p_tex"
+			],
+			[
+				"SDL_",
+				"SDL_Texture"
+			],
+			[
+				"w",
+				"window"
+			],
+			[
+				"SDL",
+				"SDL_Image"
+			],
+			[
+				"st",
+				"std"
+			]
+		]
+	},
+	"build_system": "Build Debug",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Build Debug",
+					""
+				],
+				[
+					"Build Release",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Build Debug",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package resou",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"isn",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 165.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/grego/Desktop/ppp06/makefile",
+		"/C/Users/grego/Desktop/ppp06/common.mk",
+		"/C/Users/grego/PROJECTS/git/codergopher_youtube/sdl/projecto/projecto.sublime-project",
+		"/C/Users/grego/PROJECTS/git/codergopher_youtube/sdl/projecto/projecto.sublime-workspace",
+		"/C/Users/grego/PROJECTS/git/codergopher_youtube/sdl/projecto/Entity.o",
+		"/C/Users/grego/PROJECTS/git/codergopher_sdl/projecto/include/RenderWindow.hpp",
+		"/C/Users/grego/PROJECTS/git/codergopher_sdl/projecto/projecto.sublime-project",
+		"/C/Users/grego/PROJECTS/git/codergopher_sdl/SDL2-Sublime-Text-Mingw64-Setup/Windows/Physics 2D Platformer SDL.sublime-project",
+		"/C/Users/grego/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/grego/AppData/Roaming/Sublime Text 3/Packages/Default/exec.py"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" - ",
+			"62% --> "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 231.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "CPP SDL Build Debug",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 324.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
